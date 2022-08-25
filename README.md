@@ -1,7 +1,8 @@
 # Raspberry Pi Dash Camera
-Like anyone else who needs a dash camera, has the hardware sitting around from past projects, and enjoys learning, I decided to build my own!
-![alt text](https://github.com/HugeCoderGuy/dashCam/blob/main/example_video.gif)
-Above video captures the chaos of driving through Kings Beach (Tahoe) durring summer.
+Rather than buy a ordinary dash camera online, I decided to build this barbaric hot mess!
+![alt text](https://giphy.com/gifs/Jx5bLprFNUCUhqeEbr)
+
+The above video captures the chaos of driving through Kings Beach (Tahoe) durring summer. Just in case you were wondering, this was certainly not cheaper than buying a dash camera. However it was considerably more fun.
 
 ## Features
 - Video capture and saving implemented in seperate threads for improved preformance
