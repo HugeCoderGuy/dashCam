@@ -1,6 +1,6 @@
 # Raspberry Pi Dash Camera
 Rather than buy a ordinary dash camera online, I decided to build this barbaric hot mess!
-![alt text](https://giphy.com/gifs/Jx5bLprFNUCUhqeEbr)
+![alt text](https://media.giphy.com/media/Jx5bLprFNUCUhqeEbr/giphy-downsized-large.gif)
 
 The above video captures the chaos of driving through Kings Beach (Tahoe) durring summer. Just in case you were wondering, this was certainly not cheaper than buying a dash camera. However it was considerably more fun.
 
