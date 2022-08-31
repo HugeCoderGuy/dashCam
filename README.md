@@ -1,7 +1,8 @@
 # Raspberry Pi Dash Camera
 Rather than buy a ordinary dash camera online, I decided to build this barbaric mess instead.
-
-![DashCam Gif](https://media.giphy.com/media/Jx5bLprFNUCUhqeEbr/giphy-downsized.gif)
+<p align="center">
+<img src="https://media.giphy.com/media/Jx5bLprFNUCUhqeEbr/giphy-downsized.gif" width="500" align="center">
+</p>
 
 The above video captures the chaos of driving through Kings Beach (Tahoe) durring summer. Just in case you were wondering, this was certainly not cheaper than buying a dash camera. However it was considerably more fun.
 
@@ -18,4 +19,4 @@ Overall, my car hasn't died on me yet and my not-so-official circuit has held up
 <img src="https://github.com/HugeCoderGuy/dashCam/blob/main/raw_honda_fit.jpg" width="400" align="center">
 </p>
 
-     
+### Code can be found [here!]()
