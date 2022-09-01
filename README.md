@@ -19,4 +19,8 @@ Overall, my car hasn't died on me yet and my not-so-official circuit has held up
 <img src="https://github.com/HugeCoderGuy/dashCam/blob/main/raw_honda_fit.jpg" width="400" align="center">
 </p>
 
-### Code can be found [here!]()
+## Setup
+1. Flash a 32gb or greater with the RasPi OS. I set mine up 
+2. Copy this repo into the home directory of your pi after you power it up and connect (headless works fine)
+
+### Code can be found [here!](https://github.com/HugeCoderGuy/dashCam/blob/main/dashCam.py)
